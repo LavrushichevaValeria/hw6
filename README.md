@@ -1,6 +1,6 @@
 # hw6
  ## Google NGrams
- ### 10 самых частотных продолжений фразы "due to the":
+ ### 10 самых частотных продолжений фразы *due to the*:
 - fact
 - presence
 - lack
@@ -11,9 +11,15 @@
 - influence
 - formation
 - same
-СССЫЛКА
-Разные частти речи: слово "work"
-CСЫЛКА
+![due to the](https://github.com/LavrushichevaValeria/hw6/blob/master/due%20to.png "due to the")
+
+Разные частти речи: слово *work*
+![work](https://github.com/LavrushichevaValeria/hw6/blob/master/%D1%87%D0%B0%D1%81%D1%82%D0%B8%20%D1%80%D0%B5%D1%87%D0%B8.png "work")
+
+Выбранные синонимы : *candy* и *sweet*
+![candy и sweet](https://github.com/LavrushichevaValeria/hw6/blob/master/%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B8%20%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9.png "candy и sweet")
+Результат таков: эти слова действительно являются синонимами, чаще употребляемыми в разных вариантах английского языка (американском и британском)
+
 ## AntConc
 Были выбраны тексты произведений Л. Н. Толстого "Анна Каренина" и У. Эко "Открытое произведение"
 ### Наиболее частыми (5 штук) оказались слова
